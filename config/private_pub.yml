@@ -5,6 +5,6 @@ test:
   server: "http://localhost:9292/faye"
   secret_token: "secret"
 production:
-  server: "http://dorm-hub.herokuapp.com/faye"
+  server: "http://dorm-chat-server.herokuapp.com/faye"
   secret_token: "7688387e231f06882a86ab9587bbbf93e9226388fa4dd934644df84b336cf650"
   signature_expiration: 3600 # one hour
