@@ -68,3 +68,15 @@ Change the links in your layout/application.html.erb and assets/javascripts/appl
     http://private_pub-heroku-cedar.herokuapp.com/faye.js
 
     http://private_pub-heroku-cedar.herokuapp.com/faye
+
+References
+----------
+
+- Faye - [http://faye.jcoglan.com/][http://faye.jcoglan.com/]
+- Heroku - [http://heroku.com][http://heroku.com]
+
+Special Thanks
+--------------
+
+- James Coglan - Faye Developer
+- ntenisOT     - The Scheme
