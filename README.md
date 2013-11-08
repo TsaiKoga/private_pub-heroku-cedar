@@ -52,6 +52,7 @@ Push code to Heroku
 Hand up your files:
 
    git add .
+
 	 git commit -m"change config/private_pub-heroku-cedar"
 
 Push these files to Heroku:
@@ -72,8 +73,8 @@ Change the links in your layout/application.html.erb and assets/javascripts/appl
 References
 ----------
 
-- Faye - [http://faye.jcoglan.com/][http://faye.jcoglan.com/]
-- Heroku - [http://heroku.com][http://heroku.com]
+- Faye - http://faye.jcoglan.com/
+- Heroku - http://heroku.com
 
 Special Thanks
 --------------
